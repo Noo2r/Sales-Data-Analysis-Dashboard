@@ -76,10 +76,10 @@ The dashboards are built using data extracted from a **database**, cleaned, and 
 
 ## 📷 Dashboard Screenshots
 
-### Main Figures Dashboard
+### Sales Dashboard
 ![Main Figures Dashboard](image/Sales%20Dashboard.png)
 
-### Customer Dashboard
+### Sales Person Dashboard
 ![Customer Dashboard](image/Sales%20Person%20Dashboard.png)
 
 ### Product Dashboard
